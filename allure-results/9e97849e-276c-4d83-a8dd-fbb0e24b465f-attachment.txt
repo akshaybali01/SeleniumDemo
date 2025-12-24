@@ -1,0 +1,2 @@
+Login in with username: standard_user 
+Page title is  Swag Labs
