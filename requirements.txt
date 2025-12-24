@@ -1,3 +1,5 @@
 selenium
 pytest
 allure-pytest
+pytest-rerunfailures
+allure-pytest
